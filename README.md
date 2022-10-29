@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Understanding Machine Learning and Deep Learning Models**
 
-- 🌱 I’m currently doing **the Deep Learning Specialisation by Andrew Ng**
+- 🌱 I’m currently doing **The Deep Learning Specialisation by Andrew Ng**
 
 - 👯 I’m looking to collaborate on **projects based on ML/DL Algorithms**
 
