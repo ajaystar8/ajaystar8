@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects based on ML/DL Algorithms**
 
-- 💬 Ask me about **DL and why is it on the rise?**
+- 💬 Ask me about **DL and why is it trending?**
 
 - 📫 How to reach me **ajayrajendrakumar8@gmail.com**
 
