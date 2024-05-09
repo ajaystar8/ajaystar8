@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A computer science engineer from India</h3>
+<h3 align="center">A computer science student from India</h3>
 
 - 🔭 I’m currently working on **Image segmentation and Vision Language Models**
 
