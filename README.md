@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Image segmentation and Vision Language Models**
 
-- 🌱 I’m currently doing research on **Biomedical Image Segmentaion**
+- 🌱 I’m interested to explore **Natural Language Processing** in greater depth.
 
 - 👯 I’m looking to collaborate on **research projects in the domain of Computer Vision and Natural Language Processing**
 
