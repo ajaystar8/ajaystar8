@@ -1,4 +1,4 @@
-## Hi, I'm Ajay Rajendra Kumar 👋🏽 👨🏽‍💻
+# Hi, I'm Ajay Rajendra Kumar 👋🏽 👨🏽‍💻
 
 - ⚒️ I'm currently working on semantic image segmentation
 - 🌱 I've recently started learning about and experimenting with Vision Language Models
