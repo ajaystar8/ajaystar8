@@ -15,6 +15,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-rajendra-kumar-318a4119a" height="30" width="40" />
     </a>
 </p>
+<h3 align="left">How to reach me: <a href="mailto:ajayrajendrakumar8@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a></h3>
+
 
 
     
