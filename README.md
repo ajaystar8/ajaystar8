@@ -8,7 +8,7 @@
 ### Connect with me: 
 
 <p>
-<a href="https://linkedin.com/in/ajay-rajendra-kumar-318a4119a" target="_blank">
+<a href="https://linkedin.com/in/ajayr-kumar" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" style="margin-right: 10px;" />
 </a>
 <a href="mailto:ajayrajendrakumar8@gmail.com">
