@@ -1,24 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A computer science student from India</h3>
+## Hi, I'm Ajay Rajendra Kumar 👋🏽 👨🏽‍💻
 
-- 🔭 I’m currently working on **Image segmentation and Vision Language Models**
+- ⚒️ I'm currently working on semantic image segmentation
+- 🌱 I've recently started learning about and experimenting with Vision Language Models
+- 🤝 I would love to collaborate on interesting projects and participate in hackathons
+- 🕵️‍♂️ Looking forward to make Open-source contributions
 
-- 🌱 I’m interested to explore **Natural Language Processing** in greater depth.
+### Connect with me: 
 
-- 👯 I’m looking to collaborate on **research projects in the domain of Computer Vision and Natural Language Processing**
-
-- 📫 How to reach me **ajayrajendrakumar8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/ajay-rajendra-kumar-318a4119a" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-rajendra-kumar-318a4119a" height="30" width="40" />
-    </a>
-    <a href="mailto:ajayrajendrakumar8@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
-    </a>
+<p>
+<a href="https://linkedin.com/in/ajay-rajendra-kumar-318a4119a" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" style="margin-right: 10px;" />
+</a>
+<a href="mailto:ajayrajendrakumar8@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="40" width="40" />
+</a>
 </p>
-
-
-
-    
